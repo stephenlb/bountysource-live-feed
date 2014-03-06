@@ -10,3 +10,8 @@ Live Realtime Feed of all Bountysource Activities.
 
  1. JavaScript Node.JS SDK - `npm install pubnub -g`
  2. JavaScript WEB SDK - [https://github.com/pubnub/javascript](https://github.com/pubnub/javascript)
+
+```html
+<!-- Latest SDK "Auto Upgrading" -->
+<script src=http://cdn.pubnub.com/pubnub.min.js ></script>
+```
